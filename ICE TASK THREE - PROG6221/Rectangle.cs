@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ICE_TASK_THREE___PROG6221
 {
-    class Rectangle
+    class Rectangle : Shape
     {
         public double Width { get; set; }
         public double Height { get; set; }

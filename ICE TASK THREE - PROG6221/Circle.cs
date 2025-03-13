@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ICE_TASK_THREE___PROG6221
 {
-    class Circle
+    class Circle : Shape
     {
         public double Radius { get; set; }
 
