@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ICE_TASK_THREE___PROG6221
+namespace ICE_TASK_THREE___PROG6221 
 {
     interface IShape
     {

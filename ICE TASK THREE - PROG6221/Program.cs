@@ -1,6 +1,6 @@
 ﻿namespace ICE_TASK_THREE___PROG6221
 {
-    internal class Program
+    internal class Program // VIANDRA KISTASAMY - ST10445089
     {
         static void Main(string[] args)
         {
@@ -16,6 +16,8 @@
 
             Console.ReadLine();
         }
-       }
     }
+}
+
+
 
